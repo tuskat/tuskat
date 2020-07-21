@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**tuskat/tuskat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I go by Tuskat.
+I'm a front-end developer. 
+In my free time
+I make digital art, 
+games and articles about games.
 
-Here are some ideas to get you started:
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=tuskat&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me
+
+**[Blog](https://blog.tronica.io) - [Instagram](https://www.instagram.com/salty_mocha/) - [Twitter](https://twitter.com/tuskatdev) - [DEV.TO](https://dev.to/tuskat)**
